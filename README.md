@@ -21,7 +21,7 @@ Another goal is to compare the economic and computational efficiency of differen
 NYC OpenData [Parking Violations Issued (2015 - 2018)](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2015/c284-tqph)         
 - 37 million ticket records (9 GB) collected by the New York City Department of Finance    
 - Ticket Distribution Visualization
-!(TicketsDistribution)[Fig/precinct_heat_map.png]      
+![TicketsDistribution](Fig/precinct_heat_map.png)      
    
 ## Technical Workflow<a name="Workflow"/>          
              
