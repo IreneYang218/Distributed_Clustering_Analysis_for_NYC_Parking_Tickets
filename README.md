@@ -1,6 +1,6 @@
 # Distributed Clustering Analysis for NYC Parking Tickets Violation. 
 
-**[Paper]() accepted** by [IEEE SCI 2019](http://www.smart-world.org/2019/sci/)       
+**[Paper](PaperDraft.pdf) accepted** by [IEEE SCI 2019](http://www.smart-world.org/2019/sci/)       
 **Authors**: Even Liu, Xi Yang, Nan Lin, Fiorella Tenorio, Paul Intrevado, Diane Myung-kyung Woodbridge.  
 
 ## Table of Content
